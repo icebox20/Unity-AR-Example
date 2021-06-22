@@ -72,4 +72,6 @@ crashlytics-build.properties
 
 */.idea/
 
+.idea/
+
 /images/
